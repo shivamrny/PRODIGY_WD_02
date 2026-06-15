@@ -2,8 +2,26 @@
 
 ## Stopwatch Web Application
 
-This project was developed as Task-02 of my Web Development Internship at Prodigy InfoTech.
+A responsive stopwatch web application developed using HTML, CSS, and JavaScript.
 
-The application allows users to accurately measure time intervals using a digital stopwatch. It includes start, pause, reset, and lap tracking features, providing a simple and interactive way to record elapsed time.
+### Features
+- Start Stopwatch
+- Pause Stopwatch
+- Resume Stopwatch
+- Reset Stopwatch
+- Lap Recording
+- Responsive Design
 
-The project was built using HTML, CSS, and JavaScript, with a focus on DOM manipulation, event handling, and timer functionality.
+### Technologies Used
+- HTML5
+- CSS3
+- JavaScript
+
+### Internship
+Prodigy InfoTech Web Development Internship
+
+### Task
+Task-02: Stopwatch Web Application
+
+### Author
+Shivam Rauniyar
